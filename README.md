@@ -7,7 +7,7 @@ This isn't just a repository—it's a **constellation of ideas**, a canvas of pr
 Let's explore, build, and innovate together! 🤝🚀  
 
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mianhassam96!;Full+Stack+Developer+🚀;Tech+Enthusiast+💻;Lifelong+Learner+📚;Let's+Code+Something+Awesome!&center=true&width=1000&height=50&font=Fira+Code)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mian+Hassam!;Full+Stack+Developer+🚀;Tech+Enthusiast+💻;Lifelong+Learner+📚;Let's+Code+Something+Awesome!&center=true&width=1000&height=50&font=Fira+Code)
 
 ---
 
@@ -41,12 +41,30 @@ A passionate **Full Stack Developer** with a love for building awesome web and m
 ---
 
 ## 🎯 Current Focus  
-✨ **I’m currently working on:**  
-- 🛠️ Building a media-sharing web app for tech learners 🌐  
-- 📚 Deepening my JavaScript skills 📖  
 
-✨ **I’m learning:**  
-- 🤖 Exploring NLP with Transformers 🌟  
+✨ **What I'm Working On:**  
+- 🛠️ **Building a media-sharing web app** where tech enthusiasts can share knowledge through videos and photos. 🌐  
+- 🔧 **Enhancing my tool site:** MultiMian Image or Text to PDF Tool. 📄  
+
+✨ **What I'm Learning:**  
+- 🚀 **Advanced JavaScript Concepts** to strengthen my skills in frontend and backend development. 💻  
+- 🤖 **Exploring NLP with Transformers** to create smarter, AI-driven applications. 🌟  
+- 📡 **Backend Technologies:** Expanding knowledge in **Node.js**, **Express.js**, and **Firebase** for scalable web services.  
+
+✨ **Languages & Frameworks I'm Using:**  
+- 🌐 **Frontend:**  
+  - HTML, CSS, JavaScript, Flutter  
+  - React (upcoming focus)  
+- ⚙️ **Backend:**  
+  - Node.js, Express.js  
+  - Firebase, MySQL  
+- 🧩 **Languages:**  
+  - JavaScript, Dart, SQL  
+
+✨ **My Goals:**  
+- 🏗️ Develop innovative tools and applications that make learning tech engaging and accessible. 💡  
+- 🌍 Contribute to open-source projects and collaborate with the global developer community. 🤝  
+- Grow Up myself In Full Stack Development and in Programming.   
 
 ---
 
@@ -68,11 +86,4 @@ A passionate **Full Stack Developer** with a love for building awesome web and m
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Keep+Learning+and+Building!+💻✨&center=true&width=800&height=45&font=Fira+Code)
 
 
-## 🎉 Fun Stuff  
-- ✨ **Hobbies:** Tech vlogging, gaming, learning new frameworks 🌟  
-- 🎯 **Mission:** Build tools that help people learn and grow! 💪  
-- 🐱‍💻 **Secret Superpower:** Debugging code at 2 AM 🌌  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mianhassam96)  
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Keep+Learning+and+Building!+💻✨&center=true&width=800&height=45&font=Fira+Code)
 
