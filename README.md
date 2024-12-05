@@ -50,9 +50,11 @@ A passionate **Full Stack Developer** with a love for building awesome web and m
 
 ---
 
-## 🌍 Let's Connect  
+## 🌐 Connect with Me  
+
 - 📧 **Email:** [mhassamkb@gmail.com](mailto:mhassamkb@gmail.com)  
 - 🌐 **Facebook:** [MultiMian Dev](https://facebook.com/MultiMianDev)  
+- 💼 **LinkedIn:** [Mian Hassan on LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/mianhassam96/))  
 - 🖥️ **GitHub:** [Mianhassam96](https://github.com/Mianhassam96)  
 
 ---
@@ -64,3 +66,13 @@ A passionate **Full Stack Developer** with a love for building awesome web and m
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mianhassam96)  
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Keep+Learning+and+Building!+💻✨&center=true&width=800&height=45&font=Fira+Code)
+
+
+## 🎉 Fun Stuff  
+- ✨ **Hobbies:** Tech vlogging, gaming, learning new frameworks 🌟  
+- 🎯 **Mission:** Build tools that help people learn and grow! 💪  
+- 🐱‍💻 **Secret Superpower:** Debugging code at 2 AM 🌌  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mianhassam96)  
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Keep+Learning+and+Building!+💻✨&center=true&width=800&height=45&font=Fira+Code)
+
