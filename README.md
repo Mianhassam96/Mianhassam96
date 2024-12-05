@@ -72,7 +72,7 @@ A passionate **Full Stack Developer** with a love for building awesome web and m
 
 - 📧 **Email:** [mhassamkb@gmail.com](mailto:mhassamkb@gmail.com)  
 - 🌐 **Facebook:** [MultiMian Dev](https://facebook.com/MultiMianDev)  
-- 💼 **LinkedIn:** [Mian Hassan on LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/mianhassam96/))  
+- 💼 **LinkedIn:** [Mian Hassam on LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/mianhassam96/))  
 - 🖥️ **GitHub:** [Mianhassam96](https://github.com/Mianhassam96)  
 
 ---
