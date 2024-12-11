@@ -8,8 +8,6 @@
 - 🌟 **Founder & CEO of MultiMian**, a platform empowering developers with innovative tools.  
 - 🌱 Constantly learning and exploring cutting-edge technologies like **React**, **Flutter**, and **AI**.
 - 🛠️ Building impactful tools and applications to simplify lives.
-- 🌟 Creator of projects like **Habit Tracker**, **Weather App**, and **Typing Speed Test**.
-- 🌐 Leading projects like **Image to PDF Tool** to deliver value to users.
 
 ---
 
