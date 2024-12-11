@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Mian Hassam**!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Mian+Hassam's+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Founder+%26+CEO+of+MultiMian;Building+the+Future+of+Web+and+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Mian+Hassam+-+Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+the+Future+of+Web+and+AI)](https://git.io/typing-svg)
 
 ---
 
@@ -9,12 +9,14 @@
 - 🌟 **Founder & CEO of MultiMian**, a platform empowering developers with innovative tools.  
 - 🌱 Constantly learning and exploring cutting-edge technologies like **React**, **Flutter**, and **AI**.
 - 🛠️ Building impactful tools and applications to simplify lives.
+- 🌟 Creator of projects like **Habit Tracker**, **Weather App**, and **Typing Speed Test**.
+- 🌐 Leading projects like **Image to PDF Tool** to deliver value to users.
 
 ---
 
 ### 🛠️ **Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,flutter,dart,firebase,mysql,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,flutter,dart,firebase,mysql,html,css" alt="Tech Stack" />
 </div>
 
 ---
