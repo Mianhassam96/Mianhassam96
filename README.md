@@ -1,89 +1,67 @@
-# 🌟 Step Into My GitHub Galaxy! 🚀✨  
+# 👋 Hi there, I'm **Mian Hassam**!
 
-Welcome to the world where **code meets creativity**! 💻⚡  
-Here, you'll find my journey as a **Full Stack Developer**, fueled by passion, innovation, and a never-ending love for learning. 🌈  
-
-This isn't just a repository—it's a **constellation of ideas**, a canvas of projects, and a testament to the endless possibilities of tech. 🌌🌠  
-Let's explore, build, and innovate together! 🤝🚀  
-
-
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Mian+Hassam!;Full+Stack+Developer+🚀;Tech+Enthusiast+💻;Lifelong+Learner+📚;Let's+Code+Something+Awesome!&center=true&width=1000&height=50&font=Fira+Code)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Mian+Hassam's+GitHub+Profile!;Full+Stack+Developer+%7C+Tech+Enthusiast;Founder+%26+CEO+of+MultiMian;Building+the+Future+of+Web+and+AI)](https://git.io/typing-svg)
 
 ---
 
-## 👨‍💻 About Me  
-🎯 **Who am I?**  
-A passionate **Full Stack Developer** with a love for building awesome web and mobile apps! I thrive on turning ideas into reality using code. When I'm not coding, you’ll find me exploring AI, tinkering with new tech, or diving deep into JavaScript frameworks.  
+### 🚀 **About Me**
+- 🧑‍💻 **Hi! I'm Mian Hassam**, a passionate full-stack developer and tech enthusiast.  
+- 🌟 **Founder & CEO of MultiMian**, a platform empowering developers with innovative tools.  
+- 🌱 Constantly learning and exploring cutting-edge technologies like **React**, **Flutter**, and **AI**.
+- 🛠️ Building impactful tools and applications to simplify lives.
 
 ---
 
-### 🚀 My Tech Arsenal  
-💡 **Frontend:**  
-- 🌐 HTML5, CSS3, JavaScript  
-- 🎨 React, Flutter  
-
-💡 **Backend:**  
-- 🛠️ Node.js, Express  
-- 📦 Firebase, MySQL  
-
-💡 **Tools & Platforms:**  
-- 🖥️ Visual Studio Code  
-- 🗂️ GitHub, GitHub Desktop  
-- 🌐 WordPress, APIs  
+### 🛠️ **Languages & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,flutter,dart,firebase,mysql,html,css" alt="Tech Stack" />
+</div>
 
 ---
 
-## 📊 GitHub Stats  
-🌟 **Achievements in Numbers:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight)
+### 🏆 **GitHub Achievements**
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Achievements" />
+</div>
 
 ---
 
-## 🎯 Current Focus  
-
-✨ **What I'm Working On:**  
-- 🛠️ **Building a media-sharing web app** where tech enthusiasts can share knowledge through videos and photos. 🌐  
-- 🔧 **Enhancing my tool site:** MultiMian Image or Text to PDF Tool. 📄  
-
-✨ **What I'm Learning:**  
-- 🚀 **Advanced JavaScript Concepts** to strengthen my skills in frontend and backend development. 💻  
-- 🤖 **Exploring NLP with Transformers** to create smarter, AI-driven applications. 🌟  
-- 📡 **Backend Technologies:** Expanding knowledge in **Node.js**, **Express.js**, and **Firebase** for scalable web services.  
-
-✨ **Languages & Frameworks I'm Using:**  
-- 🌐 **Frontend:**  
-  - HTML, CSS, JavaScript, Flutter  
-  - React (upcoming focus)  
-- ⚙️ **Backend:**  
-  - Node.js, Express.js  
-  - Firebase, MySQL  
-- 🧩 **Languages:**  
-  - JavaScript, Dart, SQL  
-
-✨ **My Goals:**  
-- 🏗️ Develop innovative tools and applications that make learning tech engaging and accessible. 💡  
-- 🌍 Contribute to open-source projects and collaborate with the global developer community. 🤝  
-- Grow Up myself In Full Stack Development and in Programming.   
+### 🌟 **Featured Projects**
+<div align="center">
+  <a href="https://github.com/Mianhassam96/weather-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mianhassam96&repo=weather-app&theme=radical" alt="Weather App" />
+  </a>
+  <a href="https://github.com/Mianhassam96/habit-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mianhassam96&repo=habit-tracker&theme=radical" alt="Habit Tracker Tool" />
+  </a>
+</div>
 
 ---
 
-## 🌐 Connect with Me  
-
-- 📧 **Email:** [mhassamkb@gmail.com](mailto:mhassamkb@gmail.com)  
-- 🌐 **Facebook:** [MultiMian Dev](https://facebook.com/MultiMianDev)  
-- 💼 **LinkedIn:** [Mian Hassam on LinkedIn]([https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/mianhassam96/))  
-- 🖥️ **GitHub:** [Mianhassam96](https://github.com/Mianhassam96)  
+### 📈 **GitHub Stats**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=radical" alt="Mian Hassam's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
 
-## 🎉 Fun Stuff  
-- ✨ **Hobbies:** Tech vlogging, gaming, learning new frameworks 🌟  
-- 🎯 **Mission:** Build tools that help people learn and grow! 💪  
-- 🐱‍💻 **Secret Superpower:** Debugging code at 2 AM 🌌  
+### 🌐 **Connect with Me**
+<div align="center">
+  <a href="https://github.com/Mianhassam96">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mianhassam96">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/MultiMianDev">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</div>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Mianhassam96)  
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?lines=Thank+you+for+visiting!;Keep+Learning+and+Building!+💻✨&center=true&width=800&height=45&font=Fira+Code)
+---
 
-
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mianhassam96&color=brightgreen&style=flat-square" alt="Profile Views" />
+</div>
