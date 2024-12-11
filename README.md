@@ -15,7 +15,7 @@
 
 ### 🛠️ **Languages & Tools**
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,flutter,dart,firebase,mysql,html,css" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,python,flutter,dart,firebase,mysql,html,css" alt="Tech Stack" />
 </div>
 
 ---
@@ -24,20 +24,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Achievements" />
 </div>
-
----
-
-### 🌟 **Featured Projects**
-<div align="center">
-  <a href="https://github.com/Mianhassam96/weather-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mianhassam96&repo=weather-app&theme=radical" alt="Weather App" />
-  </a>
-  <a href="https://github.com/Mianhassam96/habit-tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mianhassam96&repo=habit-tracker&theme=radical" alt="Habit Tracker Tool" />
-  </a>
-</div>
-
----
 
 ### 📈 **GitHub Stats**
 <div align="center">
