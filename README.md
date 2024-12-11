@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm **Mian Hassam**!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Mian+Hassam+-+Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+the+Future+of+Web+and+AI)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools)](https://git.io/typing-svg)
 ---
 
 ### 🚀 **About Me**
