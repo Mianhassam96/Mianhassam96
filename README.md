@@ -18,21 +18,8 @@
 
 ---
 
-### 🏆 **GitHub Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Achievements" />
-</div>
+📫 Let’s Connect!
 
-### 📈 **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=radical" alt="Mian Hassam's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-### 🌐 **Connect with Me**
 <div align="center">
   <a href="https://github.com/Mianhassam96">
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -46,6 +33,15 @@
 </div>
 
 ---
+🎯 Goals
+
+    🌐 Build tools for developers and tech enthusiasts.
+    🌟 Collaborate with like-minded innovators.
+    🚀 Keep learning and pushing boundaries.
+
+
+Let’s create something amazing together! 🌟
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mianhassam96&color=brightgreen&style=flat-square" alt="Profile Views" />
