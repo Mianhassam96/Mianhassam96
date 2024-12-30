@@ -17,7 +17,7 @@
 
 ```typescript
 const developer = {
-    name: "[<Mian Hassam]",
+    name: "Mian Hassam",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
     currentFocus: "Building Scalable Web Applications",
@@ -26,8 +26,6 @@ const developer = {
 ```
 
 <img align="right" width="400" src="https://github.com/YourUsername/YourUsername/blob/main/coding.gif" alt="coding gif"/>
-
-- 🔭 Currently working on **[Your Current Project]**
 - 🌱 Learning **Cloud Architecture & AI/ML**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at: **mhassamkb@gmail.com**
@@ -87,8 +85,6 @@ const developer = {
     </a>
 </div>
 
-## 📈 Activity Graph
-[![Mian Hassam github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <div align="center">
