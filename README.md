@@ -1,6 +1,6 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B+I'm+[Mian+Hassam];Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
-</h1>
+👋 Hi there, I'm **Mian Hassam**!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools)](https://git.io/typing-svg)
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
@@ -59,14 +59,6 @@ const developer = {
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
 </div>
 
-## 🌟 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project-1&theme=tokyonight)](https://github.com/YourUsername/project-1)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project-2&theme=tokyonight)](https://github.com/YourUsername/project-2)
-
-</div>
 
 ## 🤝 Connect With Me
 
@@ -88,5 +80,5 @@ const developer = {
 
 ---
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!" alt="Thanks" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Kepp+innovating+keep+creating!" alt="Thanks" />
 </div>
