@@ -45,12 +45,8 @@ const developer = {
 🤝 Connect With Me
 <div align="center"> <a href="https://github.com/Mianhassam96"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/mianhassam96"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://facebook.com/MultiMianDev"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://www.instagram.com/kingmian_hassam/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </div> 
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?Mianhassam96YourUsername&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
-    <a href="https://github.com/YourUsername?tab=followers">
-        <img src="https://img.shields.io/github/followers/Mianhassam96?label=Followers&style=for-the-badge&color=2F81F7" alt="followers">
-    </a>
-</p>
+
+
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats">
