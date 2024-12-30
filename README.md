@@ -4,17 +4,18 @@
 
 
 
-## 🚀 About Me
+🚀 About Me
 
-```typescript
 const developer = {
     name: "Mian Hassam",
     role: "Full Stack Developer",
     code: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-    currentFocus: "Building Scalable Web Applications",
-    funFact: "I debug with coffee ☕"
+    tools: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+    currentFocus: "Building Interactive and Scalable Applications",
+    vision: "Empowering ideas through technology and innovative solutions.",
+    funFact: "I see debugging as a puzzle to solve, with coffee as my sidekick ☕."
 };
-```
+
 
 <img align="right" width="400" src="https://github.com/YourUsername/YourUsername/blob/main/coding.gif" alt="coding gif"/>
 - 🌱 Learning **Cloud Architecture & AI/ML**
