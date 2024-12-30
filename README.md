@@ -2,16 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools)](https://git.io/typing-svg)
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
-    <a href="https://github.com/YourUsername?tab=followers">
-        <img src="https://img.shields.io/github/followers/YourUsername?label=Followers&style=for-the-badge&color=2F81F7" alt="followers">
-    </a>
-</p>
 
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak Stats">
-</div>
 
 ## 🚀 About Me
 
@@ -51,31 +42,21 @@ const developer = {
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
+🤝 Connect With Me
+<div align="center"> <a href="https://github.com/Mianhassam96"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/mianhassam96"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://facebook.com/MultiMianDev"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://www.instagram.com/kingmian_hassam/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </div> 
 
-## 📊 GitHub Stats
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?Mianhassam96YourUsername&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile Views">
+    <a href="https://github.com/YourUsername?tab=followers">
+        <img src="https://img.shields.io/github/followers/Mianhassam96?label=Followers&style=for-the-badge&color=2F81F7" alt="followers">
+    </a>
+</p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Top Languages" height="170"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats">
 </div>
 
 
-## 🤝 Connect With Me
-
-<div align="center">
-    <a href="https://linkedin.com/in/YourUsername">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/YourUsername">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://dev.to/YourUsername">
-        <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
-    </a>
-    <a href="mailto:your.email@domain.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-</div>
 
 
 ---
