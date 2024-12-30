@@ -3,16 +3,27 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools)](https://git.io/typing-svg)
 
 
+# 🚀 About Me
 
-🚀 About Me
+**Name:** Mian Hassam  
+**Role:** Full Stack Developer  
+**Languages & Frameworks:**  
+- JavaScript | TypeScript  
+- Python | Java  
+- Go | React | Node.js | Express  
 
-Name: Mian Hassam  
-Role: Full Stack Developer  
-Languages: JavaScript, TypeScript, Python, Java, Go  
-Tools: React, Node.js, Express, MongoDB, MySQL  
-Current Focus: Building Interactive and Scalable Applications  
-Vision: Empowering ideas through technology and innovative solutions  
-Fun Fact: Debugging is my favorite puzzle, and coffee is my trusted ally ☕  
+**Tools & Databases:**  
+- MongoDB | MySQL | Firebase | Docker  
+
+**Current Focus:**  
+💻 Building Interactive, Scalable, and User-Centric Web Applications  
+
+**Vision:**  
+🌟 Empowering ideas through technology, crafting innovative solutions for the future.  
+
+**Fun Fact:**  
+☕ Debugging is my favorite puzzle, and coffee is my trusty sidekick.  
+
 
 
 <img align="right" width="400" src="https://github.com/YourUsername/YourUsername/blob/main/coding.gif" alt="coding gif"/>
