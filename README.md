@@ -2,6 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools)](https://git.io/typing-svg)
 
+---
 
 # 🚀 About Me
 
@@ -24,12 +25,13 @@
 **Fun Fact:**  
 ☕ Debugging is my favorite puzzle, and coffee is my trusty sidekick.  
 
-
-
 <img align="right" width="400" src="https://github.com/YourUsername/YourUsername/blob/main/coding.gif" alt="coding gif"/>
-- 🌱 Learning **Cloud Architecture & AI/ML**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at: **mhassamkb@gmail.com**
+
+- 🌱 Learning **Cloud Architecture & AI/ML**  
+- 👯 Looking to collaborate on **Open Source Projects**  
+- 📫 Reach me at: **mhassamkb@gmail.com**  
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -52,19 +54,36 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-🤝 Connect With Me
-<div align="center"> <a href="https://github.com/Mianhassam96"> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://linkedin.com/in/mianhassam96"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://facebook.com/MultiMianDev"> <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /> </a> <a href="https://www.instagram.com/kingmian_hassam/"> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /> </a> </div> 
-
-
-
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats">
-</div>
-
-
-
 
 ---
+
+## 🤝 Connect With Me
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Kepp+innovating+keep+creating!" alt="Thanks" />
+  <a href="https://github.com/Mianhassam96">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mianhassam96">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://facebook.com/MultiMianDev">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/kingmian_hassam/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Keep+innovating,+keep+creating!" alt="Thanks" />
 </div>
