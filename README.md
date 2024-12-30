@@ -79,10 +79,10 @@
 ## 📊 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mianhassam96&theme=tokyonight" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br />
+  <br /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=6" alt="Top Languages" />
 </div>
 
