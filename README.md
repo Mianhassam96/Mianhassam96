@@ -1,4 +1,5 @@
-Hi there, I'm Mian Hassam 👋  
+# Hi there, I'm Mian Hassam 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=+Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools" alt="Typing SVG" />
 </p>
@@ -7,21 +8,22 @@ Hi there, I'm Mian Hassam 👋
 
 ## 🚀 **About Me**
 
-<img align="right" width="400" src="https://github.com/YourUsername/YourUsername/blob/main/coding.gif" alt="coding gif" />
+<img align="right" width="400" src="https://github.com/Mianhassam96/Mianhassam96/blob/main/coding.gif" alt="coding gif" />
 
 **Name:** Mian Hassam  
-**Role:** Full Stack Developer  
+**Role:** Full Stack Developer | Tech Entrepreneur  
 **Languages & Frameworks:**  
-- JavaScript | TypeScript | Python  
-- React | Angular | Vue.js  
-- Node.js | Express | Django  
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Angular, Vue.js  
+- **Backend:** Node.js, Express, Python, Django  
+- **Mobile:** React Native  
 
 **Tools & Databases:**  
-- MongoDB | MySQL | PostgreSQL | Firebase  
-- Docker | Kubernetes | Terraform  
+- **Databases:** MongoDB, PostgreSQL, MySQL, Firebase  
+- **DevOps:** Docker, Kubernetes, Terraform, GitHub Actions  
+- **Cloud:** AWS, Google Cloud, Azure  
 
 **Current Focus:**  
-💻 Building Interactive, Scalable, and User-Centric Web Applications  
+💻 Building **scalable, user-centric web applications** and exploring **AI/ML** for innovative solutions.  
 
 **Vision:**  
 🌟 Empowering ideas through technology, crafting innovative solutions for the future.  
@@ -63,14 +65,33 @@ Hi there, I'm Mian Hassam 👋
 
 ---
 
-## 🌟 **Languages**
+## 🌟 **GitHub Stats**
 
 <div align="center">
 
-<!-- Automatically generated language stats -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=8)
+<!-- GitHub Stats -->
+![Mian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🏆 **Achievements**
+
+<div align="center">
+
+<!-- GitHub Trophies -->
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=onedark&no-frame=true&row=2&column=4)
+
+</div>
+
+---
 
 ## 🤝 **Connect With Me**
 
@@ -86,6 +107,9 @@ Hi there, I'm Mian Hassam 👋
   </a>
   <a href="https://www.instagram.com/kingmian_hassam/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:mhassamkb@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
 
