@@ -80,18 +80,6 @@
 
 </div>
 
----
-
-## 🏆 **Achievements**
-
-<div align="center">
-
-<!-- GitHub Trophies -->
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=onedark&no-frame=true&row=2&column=4)
-
-</div>
-
----
 
 ## 🤝 **Connect With Me**
 
