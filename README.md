@@ -1,4 +1,4 @@
-Hi there, I'm Mian Hassam 👋
+Hi there, I'm Mian Hassam 👋  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=70&lines=+Full+Stack+Developer;Founder+%26+CEO+of+MultiMian;Building+Innovative+Tech+Tools" alt="Typing SVG" />
 </p>
@@ -12,7 +12,7 @@ Hi there, I'm Mian Hassam 👋
 **Name:** Mian Hassam  
 **Role:** Full Stack Developer  
 **Languages & Frameworks:**  
-- JavaScript | TypeScript | Python 
+- JavaScript | TypeScript | Python  
 - React | Angular | Vue.js  
 - Node.js | Express | Django  
 
@@ -71,7 +71,6 @@ Hi there, I'm Mian Hassam 👋
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide=html,css,scss&langs_count=8)
 
 </div>
-
 
 ## 🤝 **Connect With Me**
 
