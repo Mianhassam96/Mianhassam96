@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mian Hassam
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer;Founder+of+MultiMian;Builder+of+Real-World+Tech+Products;Turning+Ideas+into+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00b306&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer;Founder+of+MultiMian;Builder+of+Real-World+Tech+Products;Turning+Ideas+into+Scalable+Apps" />
 </p>
 
 ---
