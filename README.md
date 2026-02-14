@@ -64,18 +64,7 @@ I build **tools, platforms, and systems** that solve real problems.
 
 ---
 
-## 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 🎯 What I Love Working On
 
