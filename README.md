@@ -28,9 +28,11 @@ I build **tools, platforms, and systems** that solve real problems.
 
 | Project | Description |
 |--------|-------------|
+| ✍️ **MianScribe** | Real-time character & word counting | 
 | 🔍 **MianScan** | AI-powered scanning & utility tool |
 | 🧩 **MultiMian** | Ecosystem of useful developer products |
 | ✍️ **MultiMian TypePro** | Smart Writing Assistant | 
+
 
 ---
 
