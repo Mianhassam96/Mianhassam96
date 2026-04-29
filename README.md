@@ -78,7 +78,7 @@ Turning MultiMian into a full SaaS ecosystem.
 
 ## 💬 Developer Quote
 
-> *“> “Good developers write code. Great developers build systems that scale”*
+*“Good developers write code. Great developers build systems that scale”*
 
 ---
 
