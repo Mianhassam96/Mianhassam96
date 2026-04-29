@@ -73,8 +73,6 @@ Turning MultiMian into a full SaaS ecosystem.
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true)
-
 
 ## 💬 Developer Quote
 
