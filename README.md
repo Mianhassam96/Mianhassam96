@@ -3,69 +3,46 @@
 🚀 I build products people actually use — not just projects that sit on GitHub.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00b306&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SaaS+Builder;Turning+Ideas+into+Real+Products;Focused+on+Speed%2C+UX+%26+Growth" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00b306&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SaaS+Builder;Turning+Ideas+into+Real+Products;Focused+on+Speed%2C+UX+%26+Growth;Founder+of+MultiMian"/>
 </p>
----
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://github.com/Mianhassam96/Mianhassam96/blob/main/coding.gif" />
+I’m a Full Stack Developer & Product Builder focused on one thing:
 
-I am a **Full Stack Developer** and **Tech Entrepreneur** passionate about building **real, scalable, user-focused products**.
+👉 Turning ideas into real, usable products — fast.
 
-I don’t just code websites.  
-I build **tools, platforms, and systems** that solve real problems.
+Most developers stop at coding.  
+I focus on **shipping, usability, and growth**.
 
-- 🚀 Founder of **MultiMian**
-- 🛠 Creator of tools like **MianScribe**, **MianScan**, **MianLingo**
-- 💡 Love turning complex ideas into simple user experiences
-- ☕ Debugging + Coffee = Productivity
+- 🚀 Founder of MultiMian (building a product ecosystem)
+- 🛠 Built multiple real-world tools (not just UI demos)
+- ⚡ Strong focus on performance, UX, and simplicity
+- 🧠 Think like a builder, not just a developer
 
-> **Vision:** Empower ideas through technology and build products that matter.
-
+> I don’t just write code. I build leverage.
 ---
 
 ## 🏗️ Currently Building
 
 | Project | Description |
 |--------|-------------|
-| ✍️ **MianScribe** | Real-time character & word counting | 
-| 🔍 **MianScan** | AI-powered scanning & utility tool |
-| 🧩 **MultiMian** | Ecosystem of useful developer products |
-| ✍️ **MultiMian TypePro** | Smart Writing Assistant | 
+| ✍️ **MianPix** | Fast image enhancement, resizing, and optimization in one clean tool | 
+| 🔍 **MianScan** | Scan and fix site issues instantly |
+| 🧩 **MultiMian-ImageKit** | All-in-one image toolkit—fast, simple, no install |
+| ✍️ **MianConvert** | Fast video conversion, editing, and effects—all in one tool | 
+| ⏳  **MultiMian-WaqtX** | Turn your time into insight and purpose |
 
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚙️ Tech Focus
 
-<div align="center">
+- Frontend: React, Next.js, TypeScript
+- Backend: Node.js, Express, Python
+- Systems: MongoDB, PostgreSQL, Docker
 
-### 🚀 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### 🗄️ Database & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
----
+> I choose tools based on performance — not hype.
 
 
 
@@ -76,6 +53,12 @@ I build **tools, platforms, and systems** that solve real problems.
 - AI-powered Web Apps
 - Clean UI/UX Systems
 - Scalable Architectures
+
+ ## 🎯 Current Mission
+
+- 🚀 Building viral SaaS products
+- ⚡ Creating ultra-fast user experiences
+- 📈 Turning projects into real businesses
 
 ---
 
@@ -90,9 +73,12 @@ I build **tools, platforms, and systems** that solve real problems.
 
 ---
 
+![Stats](https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true)
+
+
 ## 💬 Developer Quote
 
-> *“A developer’s real power is not coding. It’s debugging.”*
+> *“> “Good developers write code. Great developers build systems that scale”*
 
 ---
 
