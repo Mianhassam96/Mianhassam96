@@ -42,7 +42,7 @@ Turning MultiMian into a full SaaS ecosystem.
 - Backend: Node.js, Express, Python
 - Systems: MongoDB, PostgreSQL, Docker
 
-> I choose tools based on performance — not hype.
+I choose tools based on performance — not hype.
 
 
 
