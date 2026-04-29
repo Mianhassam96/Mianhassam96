@@ -1,9 +1,12 @@
 # 👋 Hi, I'm Mian Hassam
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00b306&center=true&vCenter=true&width=700&height=80&lines=Full+Stack+Developer;Founder+of+MultiMian;Builder+of+Real-World+Tech+Products;Turning+Ideas+into+Scalable+Apps" />
-</p>
+# 👋 Hi, I'm Mian Hassam
 
+🚀 I build products people actually use — not just projects that sit on GitHub.
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00b306&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;SaaS+Builder;Turning+Ideas+into+Real+Products;Focused+on+Speed%2C+UX+%26+Growth" />
+</p>
 ---
 
 ## 🧠 About Me
