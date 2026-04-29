@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Mian Hassam
 
-# 👋 Hi, I'm Mian Hassam
-
 🚀 I build products people actually use — not just projects that sit on GitHub.
 
 <p align="center">
