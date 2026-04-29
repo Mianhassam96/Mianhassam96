@@ -20,8 +20,8 @@ I focus on **shipping, usability, and growth**.
 - ⚡ Strong focus on performance, UX, and simplicity
 - 🧠 Think like a builder, not just a developer
 
-> I don’t just write code. I build leverage.
----
+📌 Building toward:
+Turning MultiMian into a full SaaS ecosystem.
 
 ## 🏗️ Currently Building
 
@@ -29,9 +29,9 @@ I focus on **shipping, usability, and growth**.
 |--------|-------------|
 | ✍️ **MianPix** | Fast image enhancement, resizing, and optimization in one clean tool | 
 | 🔍 **MianScan** | Scan and fix site issues instantly |
-| 🧩 **MultiMian-ImageKit** | All-in-one image toolkit—fast, simple, no install |
+| 🧩 **ImageKit** | All-in-one image toolkit—fast, simple, no install |
 | ✍️ **MianConvert** | Fast video conversion, editing, and effects—all in one tool | 
-| ⏳  **MultiMian-WaqtX** | Turn your time into insight and purpose |
+| ⏳  **WaqtX** | Turn your time into meaningful insights and habits |
 
 
 ---
