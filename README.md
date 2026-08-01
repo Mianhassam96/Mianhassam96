@@ -199,25 +199,20 @@ That's where your GitHub profile will really start to stand out.
 
 <td width="50%">
 
-#🖼 ImageKit
+### 🖼️ MultiMian ImageKit
 
-17 Browser Tools
+**Privacy-first browser image toolkit**
 
-OCR
+✅ 17+ powerful tools
 
-PDF
-
-Compress
-
-→ View Project
-
-────────────────────
-
-🔄 MianConvert
-
-Fast Conversion Suite
-
-→ View Project
+* OCR (Image → Text)
+* Image Compression
+* PDF ↔ Image
+* Resize & Crop
+* Watermark
+* QR Code Tools
+* Screenshot Studio
+* Passport Photo Maker
 
 **Tech**
 
