@@ -393,17 +393,6 @@ Currently exploring:
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=algolia&no-frame=true&column=4&margin-w=15"/>
-
-</p>
-
-
----
-
 <h2 align="center">
 ⚡ Live Developer Dashboard
 </h2>
