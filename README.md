@@ -36,7 +36,7 @@ Founder of <strong>MultiMian</strong> • Full Stack Developer • SaaS Builder 
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a **Full Stack Developer**, **Product Builder**, and **Founder of MultiMian**, focused on building modern digital products that solve real-world problems.
 
@@ -422,13 +422,15 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mianhassam96&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mianhassam96&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -437,9 +439,7 @@ Currently exploring:
 # 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=algolia&margin-w=15&margin-h=15&no-frame=true&column=4"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
 </p>
 
 ---
