@@ -51,7 +51,7 @@ My goal is simple:
 
 Helping businesses, startups, and entrepreneurs build fast, scalable, and growth-focused digital solutions.
 
-| 🚀 Service                     | 💡 What I Deliver                                                                                                                                                                                       |
+|  Service                     | 💡 What I Deliver                                                                                                                                                                                       |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 🌐 **Web Development**         | Business websites, landing pages, eCommerce stores, custom web applications, and SaaS platforms built with performance and scalability in mind.                                                         |
 | 🤖 **AI Solutions**            | AI-powered web applications, automation workflows, OCR, browser-based AI tools, and intelligent business solutions.                                                                                     |
