@@ -47,40 +47,22 @@ My goal is simple:
 > **Build products that people enjoy using and businesses trust.**
 
 ---
-
 # 💼 What I Do
 
-### 🌐 Web Development
+Helping businesses, startups, and entrepreneurs build fast, scalable, and growth-focused digital solutions.
 
-* Business Websites
-* SaaS Platforms
-* Dashboards
-* Landing Pages
-* Portfolio Websites
+| 🚀 Service                     | 💡 What I Deliver                                                                                                                                                                                       |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🌐 **Web Development**         | Business websites, landing pages, eCommerce stores, custom web applications, and SaaS platforms built with performance and scalability in mind.                                                         |
+| 🤖 **AI Solutions**            | AI-powered web applications, automation workflows, OCR, browser-based AI tools, and intelligent business solutions.                                                                                     |
+| 📈 **SEO Services**            | Technical SEO, on-page optimization, Core Web Vitals, keyword strategy, site audits, schema markup, speed optimization, and SEO-focused web development to improve search rankings and organic traffic. |
+| ⚡ **Performance Optimization** | Lighthouse optimization, Core Web Vitals improvements, caching, image optimization, code splitting, lazy loading, and faster user experiences.                                                          |
+| 🎨 **UI / UX Design**          | Modern, responsive, accessible, and conversion-focused interfaces that provide an excellent user experience across all devices.                                                                         |
+| 🛠️ **Maintenance & Support**  | Website maintenance, bug fixing, feature enhancements, security updates, performance monitoring, backups, and long-term technical support.                                                              |
 
-### 🤖 AI Solutions
+> **My goal isn't just to build websites—it's to create digital products that are fast, discoverable, scalable, and designed to help businesses grow.**
 
-* AI Integrations
-* AI Automation
-* OCR Applications
-* Browser AI
-* Productivity Tools
 
-### ⚡ Performance
-
-* Core Web Vitals
-* Lighthouse Optimization
-* SEO
-* Speed Optimization
-* Accessibility
-
-### 🎨 UI / UX
-
-* Responsive Design
-* Modern Interfaces
-* Design Systems
-* User Experience
-* Mobile Optimization
 
 ---
 
