@@ -439,7 +439,7 @@ Currently exploring:
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=onedark&no-frame=true&no-bg=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20"/>
 </p>
 
 ---
@@ -452,9 +452,35 @@ Currently exploring:
 
 </p>
 
-> **Note:** Enable a GitHub Action to generate the snake animation automatically.
+# 📊 Developer Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
+
+# ⚡ Live Coding Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mianhassam96&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mianhassam96&theme=github_dark"/>
+
+</p>
+---
+
 
 # ✍️ Latest Focus
 
