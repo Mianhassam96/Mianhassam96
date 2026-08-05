@@ -385,11 +385,6 @@ Currently exploring:
 
 <!-- ========================================= -->
 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mianhassam96&theme=tokyo-night&hide_border=true&radius=16"/>
-</p>
 
 ---
 
