@@ -401,44 +401,43 @@ Currently exploring:
 
 </p>
 
+
 ---
 
-# 🐍 Contribution Snake
+<h2 align="center">
+⚡ Live Developer Dashboard
+</h2>
+
+<p align="center">
+<i>Real-time insights into my coding activity, repositories, and contributions.</i>
+</p>
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Mianhassam96/Mianhassam96/output/github-contribution-grid-snake-dark.svg"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-
-
----
-
-# ⚡ Live Coding Metrics
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mianhassam96&theme=github_dark"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mianhassam96&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true"/>
 
 </p>
 ---
 
+<h2 align="center">
+🚀 Open Source Journey
+</h2>
 
-# ✍️ Latest Focus
+<p align="center">
+<i>Every commit is a step toward building better products.</i>
+</p>
 
-Currently building and improving:
-
-* 🖼️ MultiMian ImageKit
-* 🔄 MianConvert
-* 📄 MianScan
-* 🌐 MultiMian Studio
-* 📊 Website Analysis Hub
-* 🤖 AI-powered browser tools
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mianhassam96&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -490,27 +489,21 @@ If you have an idea you'd like to turn into a real product, let's connect.
 
 ---
 
-# 💼 Open for Opportunities
-
-✔ Freelance Projects
-
-✔ Startup Collaborations
-
-✔ SaaS Development
-
-✔ AI Integration
-
-✔ Technical SEO
-
-✔ Long-term Partnerships
-
----
-
 # 💬 Favorite Quote
 
 <p align="center">
 
 > **"Code creates software. Vision creates products."**
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mianhassam96/Mianhassam96/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
