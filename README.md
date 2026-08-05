@@ -421,7 +421,9 @@ Currently exploring:
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mianhassam96&theme=algolia&no-frame=true&column=4&margin-w=15"/>
+
 </p>
 
 ---
@@ -434,21 +436,9 @@ Currently exploring:
 
 </p>
 
-# 📊 Developer Dashboard
+---
 
-<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mianhassam96&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mianhassam96&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Mianhassam96&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 ---
 
