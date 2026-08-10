@@ -9,7 +9,7 @@
 </h1>
 
 <h3 align="center">
-Founder of <strong>MultiMian</strong> • Full Stack Developer • SaaS Builder • AI Solutions • SEO Specialist
+Founder of <strong>MultiMian</strong> • Full Stack Developer • SaaS Builder • SEO Specialist
 </h3>
 
 <p align="center">
